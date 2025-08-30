@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-template",
-    "slug": "react-native-template",
+    "name": "wifi-lamp-control",
+    "slug": "wifi-lamp-control",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
